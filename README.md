@@ -1,6 +1,6 @@
 # Minimal MNIST
 
-[Second Demo run of Minimal MNIST (after fixing mistake discussed in notes)](docs/demo.png)
+![Second Demo run of Minimal MNIST (after fixing mistake discussed in notes)](docs/demo.png)
 
 Sunday challenge to solve MNIST as fast as possible in rust with no external dependencies (save rng and plotting.) Not a very fast implementation (only had time really to write, debug and run), but it gets fairly accurate. Since I had so much fun this will be an ongoing recreational programming project.
 
