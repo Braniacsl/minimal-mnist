@@ -1,0 +1,6 @@
+/target
+/data
+data/
+*.png
+!docs/*.png
+
